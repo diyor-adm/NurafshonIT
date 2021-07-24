@@ -1,2 +1,2 @@
-# NurafshonIT
+# Nurafshon IT
 IT center
