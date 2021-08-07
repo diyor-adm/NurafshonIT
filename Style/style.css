@@ -205,6 +205,17 @@ a {
 #table tr {
     height: 50px;
 }
+#table tr a{
+    color: white;
+}
+.icon i{
+    margin-left: 12px;
+
+}
+.icon:focus i{
+    transform: rotate(180deg);
+}
+
 
 
 #table tr:nth-child(odd) {
